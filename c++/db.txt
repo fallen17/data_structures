@@ -1,0 +1,12 @@
+S mystack  
+S mystackw 
+A tree1 10 20 40 50 
+M myarray hello NEW_VALUE hello 
+S mystack1 item item item item 
+M myarray1  value 
+Q myqueue client1 client2 
+F mylist val1 val val 
+L mylist1 val111 val1 
+L mylist11 
+L mylist12 
+A mytree 10 20 30 
